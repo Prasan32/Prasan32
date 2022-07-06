@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/prasannakb440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="prasannakb440" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/prasanna kumar baniya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanna kumar baniya" height="30" width="40" /></a>
-<a href="https://fb.com/prasanna kb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasanna kb" height="30" width="40" /></a>
-<a href="https://instagram.com/prasanna_kb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasanna_kb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/prasanna-kumar-baniya-9a91a5179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prasanna kumar baniya" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004548673232" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="prasanna kb" height="30" width="40" /></a>
+<a href="https://www.instagram.com/prasanna_kb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="prasanna_kb" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
