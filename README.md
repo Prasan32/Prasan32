@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasanna Kumar Baniya</h1>
 <h3 align="center">I am a Web Developer</h3>
 
-- 🔭 I’m currently working on **Rental Management System**
+- 🔭 I’m currently working at **InfoxIT Pvt. Ltd.**
 
 - 🌱 I’m currently learning **React, Nestjs**
 
