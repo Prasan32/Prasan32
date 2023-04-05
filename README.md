@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prasanna Kumar Baniya</h1>
-<h3 align="center">I am a Web Developer</h3>
+<h3 align="center">I am a Software Engineer</h3>
 
 - 🔭 I’m currently working at **InfoxIT Pvt. Ltd.**
 
