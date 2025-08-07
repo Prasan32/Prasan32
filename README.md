@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Prasanna Kumar Baniya</h1>
 <h3 align="center">I am a Software Engineer</h3>
 
-- 🌱 I’m currently learning **React, Nestjs**
-
 - 💬 Ask me about **Node, express,**
 
 - 📫 How to reach me **prasannakb440@gmail.com**
